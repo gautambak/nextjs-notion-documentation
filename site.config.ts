@@ -18,9 +18,9 @@ export default siteConfig({
   description: '15Rock documentation',
 
   // social usernames (optional)
-  twitter: 'https://twitter.com/get15rock',
+  twitter: 'get15rock',
   // github: '',
-  linkedin: 'https://www.linkedin.com/company/15rock/',
+  linkedin: 'company/15rock/',
   // newsletter: '#', // optional newsletter URL
   youtube: 'channel/UCpvR3Ydb0KFek8PiC6LGLlw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
