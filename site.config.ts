@@ -12,7 +12,7 @@ export default siteConfig({
   // basic site info (required)
   name: '15Rock Documentation',
   domain: 'https://nextjs-notion-documentation.vercel.app/',
-  author: 'Gautam',
+  author: '15Rock',
 
   // open graph metadata (optional)
   description: '15Rock documentation',
