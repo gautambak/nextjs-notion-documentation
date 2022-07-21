@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '15Rock Documentation',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://nextjs-notion-documentation.vercel.app/',
   author: 'Gautam',
 
   // open graph metadata (optional)
