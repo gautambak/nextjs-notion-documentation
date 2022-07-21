@@ -18,11 +18,11 @@ export default siteConfig({
   description: '15Rock documentation',
 
   // social usernames (optional)
-  twitter: '',
-  github: '',
-  linkedin: '',
+  twitter: 'https://twitter.com/get15rock',
+  // github: '',
+  linkedin: 'https://www.linkedin.com/company/15rock/',
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/UCpvR3Ydb0KFek8PiC6LGLlw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
